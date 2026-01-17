@@ -63,8 +63,9 @@ Airbnb-Listings-Paris-Analysis/
 │   └── AirBnb-Listings-Analysis.gif
 │
 └── README.md
+```
 
-How to Run This Project
+##How to Run This Project
 Clone the repository:
 
 git clone <your-repo-link>
@@ -78,7 +79,7 @@ venv\Scripts\activate
 # Mac/Linux:
 source venv/bin/activate
 
-Install dependencies:
+##Install dependencies:
 
 pip install pandas numpy matplotlib seaborn jupyter
 
@@ -112,7 +113,7 @@ additional tourism/hotel demand signals
 
 Missing values in host metrics may reduce correlation strength for some features.
 
-Future Improvements
+##Future Improvements
 
 Add neighborhood-level maps (price heatmaps)
 
